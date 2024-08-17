@@ -1,2 +1,2 @@
-# nand2tetris
-The nand2tetris program!
+# Hack
+The Hack computer, built from HDL to Tetris!
